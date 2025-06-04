@@ -1,9 +1,10 @@
 # M031BSP_SPI_Slave_32BIT
 M031BSP_SPI_Slave_32BIT
 
-update @ 2025//06/04
+update @ 2025/06/04
 
 1. use M032SE EVB , to test SPI0 slave TX , RX function (width : 32 bit)
+
 	- PA0(MOSI)		
 	
 	- PA1(MISO)		
